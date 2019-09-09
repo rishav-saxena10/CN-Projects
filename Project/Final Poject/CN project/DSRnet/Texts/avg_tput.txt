@@ -1,0 +1,5 @@
+
+       startTime:  0
+        stopTime:  4
+    receivedPkts:  3851
+   avgTput[kbps]:  473.98
